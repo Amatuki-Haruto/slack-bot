@@ -1,0 +1,40 @@
+{
+  "channels": {
+    "C08UCCC7SN4": {
+      "date": "2025-5-23",
+      "users": {
+        "U08UCCC0W4Q": {
+          "date": "2025-5-23",
+          "fortune": "中吉！！",
+          "time": "20:22:47"
+        }
+      },
+      "logs": [
+        {
+          "date": "2025-5-23",
+          "time": "20:22:47",
+          "userId": "U08UCCC0W4Q",
+          "fortune": "中吉！！"
+        }
+      ]
+    },
+    "C08UCCC9NCQ": {
+      "date": "2025-5-23",
+      "users": {
+        "U08UCCC0W4Q": {
+          "date": "2025-5-23",
+          "fortune": "中吉！！",
+          "time": "20:23:30"
+        }
+      },
+      "logs": [
+        {
+          "date": "2025-5-23",
+          "time": "20:23:30",
+          "userId": "U08UCCC0W4Q",
+          "fortune": "中吉！！"
+        }
+      ]
+    }
+  }
+}
